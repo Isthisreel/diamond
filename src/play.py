@@ -1,4 +1,5 @@
 import argparse
+from aegis_monitor import AegisEntropyMonitor
 from pathlib import Path
 from typing import Tuple
 
